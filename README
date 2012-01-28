@@ -1,0 +1,7 @@
+The Computer Action Team at Portland State runs an annual sysadmin training program that includes four hours weekly help desk duty, four hours weekly Friday night lectures, and tiered access to actual college servers. The CATacombs are a training room full of servers where new CATs select a box and start familiarizing themselves with services by installing them from scratch. 
+
+Students have the choice of Windows or Unix/Linux. With upwards of seventy people in an annual program, the catacombs can be a confusing and complicated place to keep track of. Boxes are frequently abandoned as students move on to bigger and better things. The combs database is an MySQL db with a PHP web interface to help the combs denizens organize themselves.
+
+Written by Jen Hanni, released to the 2012 combs residents. 
+
+Rule #1 of the combs: don't be an asshole.
